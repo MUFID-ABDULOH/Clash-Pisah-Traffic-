@@ -1,1 +1,10 @@
-# Clash-Pisah-Traffic-
+#FITUR
+- DIRECT
+- REJECT
+- GAME
+- INDONESIA
+- ADSBLOCK
+
+
+
+FITUR
