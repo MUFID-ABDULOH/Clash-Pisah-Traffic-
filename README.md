@@ -6,16 +6,7 @@
 - ADSBLOCK
 - BESTPING
 - LOADBALANCE
+- ISP 1 X ISP 2
 
-# FUNGSI
-**DIRECT** : Paket langsung di arahkan ke ISP/SubNet (Tanpa VPN)
-**REJECT** : Paket di tolak untuk tidak mengakses internet.
-**GAME** : Paket game di pointing agar berjalan sesuai Proxy group GAME.
-
-# MODE
-Ab
-H
-
-
-
-
+# PENTING
+<font color="green"> Some green text </font>
