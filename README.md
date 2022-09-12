@@ -11,7 +11,14 @@
 # CARA INPOR
 <h3>CARA IMPOR CONFIG</h4>
 
-# FUNGSI MODE
+# FUNGSI
+<h3>FILES</h3>
+
+TEMPAT | NAMA FILE | FUNGSI
+-------|-----------|-------
+./ | CONFIG | FUNGSI
+
+<h3>MODE</h3>
 
 MODE | FUNGSI
 ------------ | -------------
