@@ -8,7 +8,7 @@
 - LOADBALANCE
 - ISP 1 X ISP 2
 
-# CARA INPOR
+# CARA IMPOR
 <h3>ONLINE</h3>
 <h4>PERSIAPAN</h4>
 <br>- Akses Internet
@@ -16,10 +16,29 @@
 
 <h3>OFFLINE</h3>
 <h4>PERSIAPAN</h4>
-- Config         : ./MUFID-ABDULOH.YAML </br>
-- Proxy Provider : ./proxy_provider/AKUN-INDONESIA.YAML </br>
-- Proxy Provider : ./proxy_provider/ETH-1.YAML </br>
-- Proxy Provider : ./proxy_provider/ETH-2.YAML </br>
+Download File :<br>
+Config :<br>
+- **"MUFID-ABDULOH.YAML"**<br>
+Proxy Provider :<br>
+- **"AKUN-INDONESIA.YAML"**<br>
+- **"ETH-1.YAML"**<br>
+- "ETH-2.YAML"**<br>
+
+
+
+
+
+
+
+
+
+
+
+# H
+- Config         : <b>./MUFID-ABDULOH.YAML</b></br
+- Proxy Provider : <b>./proxy_provider/AKUN-INDONESIA.YAML</b></br>
+- Proxy Provider : <b>./proxy_provider/ETH-1.YAML</b></br>
+- Proxy Provider : <b>./proxy_provider/ETH-2.YAML</b></br>
 - Rule Provider  :
 
 # FUNGSI
