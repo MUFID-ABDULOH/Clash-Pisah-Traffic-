@@ -9,7 +9,18 @@
 - ISP 1 X ISP 2
 
 # CARA INPOR
-<h3>CARA IMPOR CONFIG</h4>
+<h3>ONLINE</h3>
+<h4>PERSIAPAN</h4>
+<br>- Akses Internet
+<br>- Config <b>"MUFID-ABDULOH.YAML"</b>
+
+<h3>OFFLINE</h3>
+<h4>PERSIAPAN</h4>
+- Config         : ./MUFID-ABDULOH.YAML </br>
+- Proxy Provider : ./proxy_provider/AKUN-INDONESIA.YAML </br>
+- Proxy Provider : ./proxy_provider/ETH-1.YAML </br>
+- Proxy Provider : ./proxy_provider/ETH-2.YAML </br>
+- Rule Provider  :
 
 # FUNGSI
 <h3>FILES</h3>
