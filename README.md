@@ -16,21 +16,21 @@
 - LOADBALANCE ETH 1
 - LOADBALANCE ETH 2
 
-# PENTING
-- Semua settingan dengan mode **"BESTPING"** dan **"LOADBALANCE"** akan ter-refresh otomatis setiap 90 detik.
-- Ada 2 opsi type, pada bagian **"proxy_provider"** dan **"rule_provider"**.<br>
-• file : Maka **"proxy_provider"** dan **"rule_provider"** tidak akan teredit otomatis.<br>
-• http : Maka **"proxy_provider"** dan **"rule_provider"** maka akan teredit setiap hari jika ada update terbaru.
+
 
 # CARA IMPOR
 <h3>ONLINE</h3>
-<h4>PERSIAPAN</h4>
+<h4>Siapkan </h4>
 <br>- Akses Internet
 <br>- Config <b>"MUFID-ABDULOH.YAML"</b>
+<h4>Upload Config
+• Buka Open Clash
+• 
+
 
 <h3>OFFLINE</h3>
-<h4>PERSIAPAN</h4>
-Download File :<br>
+<h4>Pertama</h4>
+Siapkan File :<br>
 Config :<br>
 <b>- "MUFID-ABDULOH.YAML"</b><br>
 Proxy Provider :<br>
@@ -44,25 +44,14 @@ Rule Provider :<b><br>
 - "GAME.YAML"<br>
 - "INDONESIA.YAML"<br>
 - "SOSMED.YAML"<br>
-- "STREAMING.YAML"</br><br>
+- "STREAMING.YAML"</b><br>
 
 
-
-
-
-
-
-
-
-
-
-# H
-- Config         : <b>./MUFID-ABDULOH.YAML</b></br
-- Proxy Provider : <b>./proxy_provider/AKUN-INDONESIA.YAML</b></br>
-- Proxy Provider : <b>./proxy_provider/ETH-1.YAML</b></br>
-- Proxy Provider : <b>./proxy_provider/ETH-2.YAML</b></br>
-- Rule Provider  :
-
+# PENTING
+- Semua settingan dengan mode **"BESTPING"** dan **"LOADBALANCE"** akan ter-refresh otomatis setiap 90 detik.
+- Ada 2 opsi type, pada bagian **"proxy_provider"** dan **"rule_provider"**.<br>
+• file : Maka **"proxy_provider"** dan **"rule_provider"** tidak akan teredit otomatis.<br>
+• http : Maka **"proxy_provider"** dan **"rule_provider"** maka akan teredit setiap hari jika ada update terbaru.
 # FUNGSI
 <h3>FILES</h3>
 
@@ -92,7 +81,7 @@ ADBLOCK | Mode ini untuk mengatur iklan.
 GAME | Mode ini untuk mengatur koneksi game.
 SOSMED | Mode ini untuk mengatur koneksi Sosial Media.
 STREAMING| Mode ini untuk mengatur koneksi Streaming.
-INDONESIA | Semua akun berisi server Indonesia.
+INDONESIA | Semua akun berisi akun server Indonesia.
 ETH 1 | Mengatur mode pada ETH 1.
 ETH 2 | Mengarur mode pada ETH 2.
 ETH 1 X ETH 2 | Mode penggabungan 2 ETH / 2 ISP sekaligus.
