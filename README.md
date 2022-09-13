@@ -1,16 +1,20 @@
 # MODE
 - DIRECT
 - REJECT
+- ETH 1
+- ETH 2
 - GAME
 - SOSMED
 - STREAMING
 - INDONESIA
 - ADSBLOCK
-- BESTPING (2 ISP)
+- BESTPING
 - BESTPING ETH 1
 - BESTPING ETH 2
-- LOADBALANCE (2 ISP)
-- ISP 1 X ISP 2 (PENGGABUNGAN 2 MODE ETH)
+- LOADBALANCE
+- LOADBALANCE ETH 1
+- LOADBALANCE ETH 2
+- ETH 1 X ETH 2
 
 # PENTING
 - Semua settingan dengan mode **"BESTPING"** dan **"LOADBALANCE"** akan ter-refresh otomatis setiap 90 detik.
@@ -81,17 +85,19 @@ TEMPAT             | NAMA FILE           | FUNGSI
 
 MODE | FUNGSI
 ------------ | -------------
-GLOBAL | SEMUA PAKET TANPA RULE AKAN MENGGUNAKAN MODE INI.
-DIRECT | PAKET LANGSUNG KE MODEM TANPA VPN.
-REJECT | PAKET DI TOLAK UNTUK MENGAKSES INTERNET.
-BESTPING | SEMUA AKUN AKAN DI PILIH OTOMATIS DENGAN LATENSI TERKECIL
-BESTPING ETH 1 | SEMUA AKUN ETH 1, AKAAN DI PILIH DENGAN LATEMSI TERKECIL.
-BESTPING ETH 2 | SEMUA AKUN ETH 2, AKAAN DI PILIH DENGAN LATEMSI TERKECIL.
-LOADBALANCE | MODE KESEIMBANGAN.
-LOADBALANCE ETH 1 | SEMUA AKUN DI ETH 1 AKAN DI PROSES JADI LOADBALANCE
-LOADBALANCE ETH 2 | SEMUA AKUN DI ETH 2 AKAN DI PROSES JADI LOADBALANCE
-INDONESIA | PAKET AKAN MENGGUNAKAN SERVER INDONESIA.
-ETH 1 X ETH 2 | PENGGABUNGAN 2 MODE DI SETIAP ISP.
+GLOBAL | Semua paket tanpa settingan rule akan menggunakan mode ini.
+DIRECT | Paket akan langsung terhubung ke ISP tanpa koneksi VPN.
+REJECT | Paket akan di tolak untuk mengakses internet.
+ETH 1 | Mengatur mode pada ETH 1.
+ETH 2 | Mengarur mode pada ETH 2.
+BESTPING | Semua akun akan di pilih otomatis sesuai latensi terkecil.
+BESTPING ETH 1 | Semua akun ETH 1 akan di pilih otomatis sesuai latensi terkecil.
+BESTPING ETH 2 | Semua akun ETH 2 akan di pilih otomatis sesuai latensi terkecil.
+LOADBALANCE | Semua akun akan di seimbangkan.
+LOADBALANCE ETH 1 | Semua akun di ETH 1 akan di seimbangkan.
+LOADBALANCE ETH 2 | Semua akun di ETH 2 akan di seimbangkan.
+INDONESIA | Semua akun berisi server Indonesia.
+ETH 1 X ETH 2 | Mode penggabungan 2 ETH / 2 ISP sekaligus.
 
 # PENTING
 <font color="green"> Some green text </font>
