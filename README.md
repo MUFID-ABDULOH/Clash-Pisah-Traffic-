@@ -1,12 +1,18 @@
-# FITUR
+# MODE
 - DIRECT
 - REJECT
 - GAME
+- SOSMED
+- STREAMING
 - INDONESIA
 - ADSBLOCK
-- BESTPING
-- LOADBALANCE
-- ISP 1 X ISP 2
+- BESTPING (2 ISP)
+- BESTPING ETH 1
+- BESTPING ETH 2
+- LOADBALANCE (2 ISP)
+- ISP 1 X ISP 2 (PENGGABUNGAN 2 MODE ETH)
+
+# PENTING
 
 # CARA IMPOR
 <h3>ONLINE</h3>
@@ -18,11 +24,19 @@
 <h4>PERSIAPAN</h4>
 Download File :<br>
 Config :<br>
-- **"MUFID-ABDULOH.YAML"**<br>
+<b>- "MUFID-ABDULOH.YAML"</b><br>
 Proxy Provider :<br>
-- **"AKUN-INDONESIA.YAML"**<br>
-- **"ETH-1.YAML"**<br>
-- "ETH-2.YAML"**<br>
+<b>- "AKUN-INDONESIA.YAML"<br>
+- "ETH-1.YAML"<br>
+- "ETH-2.YAML"</b><br>
+Rule Provider :<b><br>
+- "DIRECT.YAML"<br>
+- "REJECT.YAML"<br>
+- "ADBLOCK.YAML"<br>
+- "GAME.YAML"<br>
+- "INDONESIA.YAML"<br>
+- "SOSMED.YAML"<br>
+- "STREAMING.YAML"</br><br>
 
 
 
