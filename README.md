@@ -1,20 +1,20 @@
 # MODE
 - DIRECT
 - REJECT
-- ETH 1
-- ETH 2
+- ADBLOCK
 - GAME
+- INDONESIA
 - SOSMED
 - STREAMING
-- INDONESIA
-- ADSBLOCK
+- ETH 1
+- ETH 2
+- ETH 1 X ETH 2
 - BESTPING
 - BESTPING ETH 1
 - BESTPING ETH 2
 - LOADBALANCE
 - LOADBALANCE ETH 1
 - LOADBALANCE ETH 2
-- ETH 1 X ETH 2
 
 # PENTING
 - Semua settingan dengan mode **"BESTPING"** dan **"LOADBALANCE"** akan ter-refresh otomatis setiap 90 detik.
@@ -88,16 +88,20 @@ MODE | FUNGSI
 GLOBAL | Semua paket tanpa settingan rule akan menggunakan mode ini.
 DIRECT | Paket akan langsung terhubung ke ISP tanpa koneksi VPN.
 REJECT | Paket akan di tolak untuk mengakses internet.
+ADBLOCK | Mode ini untuk mengatur iklan.
+GAME | Mode ini untuk mengatur koneksi game.
+SOSMED | Mode ini untuk mengatur koneksi Sosial Media.
+STREAMING| Mode ini untuk mengatur koneksi Streaming.
+INDONESIA | Semua akun berisi server Indonesia.
 ETH 1 | Mengatur mode pada ETH 1.
 ETH 2 | Mengarur mode pada ETH 2.
+ETH 1 X ETH 2 | Mode penggabungan 2 ETH / 2 ISP sekaligus.
 BESTPING | Semua akun akan di pilih otomatis sesuai latensi terkecil.
 BESTPING ETH 1 | Semua akun ETH 1 akan di pilih otomatis sesuai latensi terkecil.
 BESTPING ETH 2 | Semua akun ETH 2 akan di pilih otomatis sesuai latensi terkecil.
 LOADBALANCE | Semua akun akan di seimbangkan.
 LOADBALANCE ETH 1 | Semua akun di ETH 1 akan di seimbangkan.
 LOADBALANCE ETH 2 | Semua akun di ETH 2 akan di seimbangkan.
-INDONESIA | Semua akun berisi server Indonesia.
-ETH 1 X ETH 2 | Mode penggabungan 2 ETH / 2 ISP sekaligus.
 
 # PENTING
 <font color="green"> Some green text </font>
