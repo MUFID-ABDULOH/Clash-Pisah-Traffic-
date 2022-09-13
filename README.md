@@ -14,6 +14,9 @@
 
 # PENTING
 - Semua settingan dengan mode **"BESTPING"** dan **"LOADBALANCE"** akan ter-refresh otomatis setiap 90 detik.
+- Ada 2 opsi type, pada bagian **"proxy_provider"** dan **"rule_provider"**.<br>
+• file : Maka **"proxy_provider"** dan **"rule_provider"** tidak akan teredit otomatis.<br>
+• http : Maka **"proxy_provider"** dan **"rule_provider"** maka akan teredit setiap hari jika ada update terbaru.
 
 # CARA IMPOR
 <h3>ONLINE</h3>
